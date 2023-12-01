@@ -6,4 +6,4 @@ tong = int(a[4])
 if(tmp == tong):
     print("YES")
 else:
-    print("NO")
+    print("NO")   
