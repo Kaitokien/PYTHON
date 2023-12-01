@@ -16,4 +16,3 @@ while t > 0:
         ans = str(int(n[i]) + nho) + ans
         print(ans)
     t -= 1
-    
